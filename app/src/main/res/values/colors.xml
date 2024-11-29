@@ -3,5 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="button1">#8B878282</color>
+    <color name="button2">#152356</color>
 
 </resources>

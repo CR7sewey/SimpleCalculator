@@ -3,6 +3,8 @@
     <style name="Base.Theme.SimpleCalculator" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <item name="colorPrimary">@color/button1</item>
+        <item name="android:textColor">@color/button2</item>
+
     </style>
 
     <style name="Theme.SimpleCalculator" parent="Base.Theme.SimpleCalculator" />
